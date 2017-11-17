@@ -10,4 +10,4 @@
 - [4 - Easy](/react-tdd-easy-4)
 
 #### Parent/Child components with state, props, array iteration, and methods
-- [5 - Medium](/react-tdd-easy-1)
+- [5 - Medium](/react-tdd-medium-1)
