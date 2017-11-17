@@ -1,6 +1,6 @@
 # React Component Practice
 
-In this exercise, you will practice building a small bands list with 1 component:
+In this exercise, you will practice building a small bands list with 2 components:
 
 - App
 - BandList

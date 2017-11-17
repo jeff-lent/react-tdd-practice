@@ -20,6 +20,7 @@ yarn test OR npm test
 
 #### Parent/Child components with state, props, and array iteration
 - [4 - Easy](/react-tdd-easy-4)
+- [5 - Easy](/react-tdd-easy-5)
 
 #### Parent/Child components with state, props, array iteration, and methods
 - [5 - Medium](/react-tdd-medium-1)
