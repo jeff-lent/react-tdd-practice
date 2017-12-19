@@ -6,4 +6,4 @@ Your goal here is to make the tests pass. You can run them by running `npm test`
 ## User stories:
  * As a user:
   - When I arrive at the homepage, I see a heading (h1) text of "Todo List"
-  - Below the heading, I see a bulleted list of 3 todos.
+  - Below the heading, I see a bulleted list of 3 todos (hardcoded into the component).
